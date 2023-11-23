@@ -4,5 +4,5 @@
 
 # * Modelo UML *
 
-![image](https://github.com/BenjaFA/Caso-Trabajador-2/assets/142475169/933c8d05-8387-4262-91b9-c45925e9d7ae)
+![image](https://github.com/BenjaFA/Caso-Trabajador-2/assets/142475169/64a44471-4bd4-4b48-adb1-d229f8b2c7cb)
 
